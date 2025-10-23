@@ -1,5 +1,5 @@
 <footer class="footer">
     <div class="container text-center">
-        &copy; {{ date('Y') }} UTS PWEB | Pengelolaan Skin ML
+        &copy; {{ date('Y') }} Damrawrr Store
     </div>
 </footer>
